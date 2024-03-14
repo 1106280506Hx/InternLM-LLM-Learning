@@ -1,0 +1,6 @@
+pip install langchain==0.0.292
+pip install gradio==4.4.0
+pip install chromadb==0.4.15
+pip install sentence-transformers==2.2.2
+pip install unstructured==0.10.30
+pip install markdown==3.3.7 
